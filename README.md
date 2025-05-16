@@ -1,7 +1,7 @@
 # El Eternauta 📺❄️
 
 **Tablero interactivo en Shiny** sobre la serie de Netflix *"El Eternauta"*, basado en la historieta original de Oesterheld y Solano López. 
-[Enlacen al tablero](https://nataliamarinn.shinyapps.io/eternauta/)
+[Link del tablero](https://nataliamarinn.shinyapps.io/eternauta/)
 
 ![Captura del dashboard](src/tablero.png)
 
